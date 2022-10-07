@@ -1,0 +1,4 @@
+git clone "Link do repositorio a ser clonado"
+git status
+git add. (Para adicionar algo no repositorio do GIT)
+git commit -m (Para colocar uma mensagem e subir o arquivo)
